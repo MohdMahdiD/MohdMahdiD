@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohdMahdiD
-- 👀 I’m interested in Full stack web dev, AI/ML, colud
+- 👀 I’m interested in full stack web developement, AI/ML, colud, etc
 - 🌱 I’m currently learning Java
 
 <!---
