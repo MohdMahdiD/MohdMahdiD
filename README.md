@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohdMahdiD
-- 👀 I’m interested in web developement, AI/ML, colud, etc
-- 🌱 I’m currently learner 
+- 👀 I’m interested in web developement, AI/ML, colud and many more....
+- 🌱 I’m currently a learner.
 
 <!---
 MohdMahdiD/MohdMahdiD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
